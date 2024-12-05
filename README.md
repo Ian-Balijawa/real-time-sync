@@ -1,4 +1,4 @@
-# real-time-sync 🔄
+# @ianbalijawa16/real-time-sync 🔄
 
 A lightweight, type-safe WebSocket-based real-time data synchronization library for TypeScript.
 
@@ -13,13 +13,13 @@ A lightweight, type-safe WebSocket-based real-time data synchronization library 
 ## 📦 Installation
 
 ```bash
-npm install real-time-sync
+npm install @ianbalijawa16/real-time-sync
 ```
 
 ## 💡 Basic Usage
 
 ```typescript
-import { RealTimeSync } from 'real-time-sync';
+import { RealTimeSync } from '@ianbalijawa16/real-time-sync';
 
 interface UserData {
   id: number;
