@@ -1,7 +1,7 @@
 {
   "name": "@ianbalijawa16/real-time-sync",
   "private":false,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight real-time data synchronization library",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
